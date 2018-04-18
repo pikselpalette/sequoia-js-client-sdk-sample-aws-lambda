@@ -17,7 +17,7 @@
     "webpack-cli": "^2.0.14"
   },
   "dependencies": {
-    "@pikselpalette/sequoia-js-client-sdk": "^0.1.1",
+    "@pikselpalette/sequoia-js-client-sdk": "^1.0.1",
     "isomorphic-fetch": "^2.2.1",
     "node-fetch": "^2.1.2"
   }
